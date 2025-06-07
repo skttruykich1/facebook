@@ -40,7 +40,7 @@
 - Kiểm tra email của bạn để xem thông tin được gửi từ EmailJS.
 
 ## Lưu ý
-- Đảm bảo cấu hình `service_gibcgh4` và `template_vxfphjh` đúng trong EmailJS.
+- Đảm bảo cấu hình `service_tizrsr6` và `template_ldew57f` đúng trong EmailJS.
 - Nếu không nhận được email, kiểm tra console (F12) để xem lỗi.
 
 ## Tác giả
