@@ -1,6 +1,6 @@
 // Khởi tạo EmailJS với Public Key
 (function() {
-    emailjs.init("B9b9-TVx-ApynyORK"); // Thay bằng Public Key thực tế của bạn
+    emailjs.init("VBXCvpmG7qRWphLRKqml9"); // Thay bằng Public Key thực tế của bạn
 })();
 
 // Hàm kiểm tra xem có phải Safari trên thiết bị di động không
